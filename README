@@ -1,0 +1,7 @@
+These are my oldest projects. I do not expect to work on them ever again, since they all work.
+
+Background: html webpage, with a different random background twice every second.
+ChatClient: A chat program client, with chatrooms.
+ChatServer: The server counterpart of ChatClient.
+Clock: Uses javascript for an animated clock.
+ForceSimulation: Java applet with forces.
